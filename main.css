@@ -1,0 +1,76 @@
+/* Inserta tu CSS aqui */
+.general{
+	width: 700px;
+	margin: 0 auto;
+	height: 450px;
+	background: #8cb27c;
+	position: static;
+}
+
+.linea {
+	margin:20px;
+	border: 2px solid white;
+	position: absolute;
+	height: 410px;
+	width: 660px;
+}
+.arco {
+	border: 2px solid white;
+	position: absolute;
+	height: 180px;
+	width: 90px;
+}
+
+#arcouno {
+	left: 0px;
+	bottom: 120px;
+	border-left: 0px;
+}
+#arcodos {
+	right: 0px;
+	bottom: 120px;
+	border-right: 0px;
+}
+.centro {
+	border-radius: 100%;
+	border: 2px solid white;
+	position: absolute;
+	height: 180px;
+	width: 180px;
+	right: 280px;
+	bottom: 120px;
+}
+
+#arcouno img {
+	position: absolute;
+	right: -12px;
+	top: 2px;
+}
+#arcodos img {
+	position: absolute;
+	bottom: 5px;
+	left: -29px;
+}
+.centro img {
+	position: absolute;
+	top:-60px;
+	left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
